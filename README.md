@@ -16,7 +16,7 @@ The goal of this repository is to showcase end-to-end analytical thinking, robus
 Below is the interactive flowchart outlining the data engineering and modeling processes used across the projects.
 
 *Click the image below to view and interact with the full flowchart!*
-[![Project Flow Chart](charts/flow%20chart%20prev.png)](charts/interactive%20flow%20chart.html)
+[![Project Flow Chart](charts/flow%20chart%20prev.png)](https://migue-rc.github.io/car-insurance/charts/interactive%20flow%20chart.html)
 
 ---
 
@@ -69,7 +69,7 @@ In real-world Usage-Based Insurance (UBI), driver behavior data is abundant but 
 
 ### 📊 Interactive Cluster Visualization
 *Click the image below to explore the interactive 3D scatter plot of the behavioral clusters!*
-[![Driver Behavior Clusters](charts/scatter%20prev.png)](charts/interactive%20scatter.html)
+[![Driver Behavior Clusters](charts/scatter%20prev.png)](https://migue-rc.github.io/car-insurance/charts/interactive%20scatter.html)
 
 ### 📈 Results & Validation
 Using the withheld labels to validate the unsupervised learning:
